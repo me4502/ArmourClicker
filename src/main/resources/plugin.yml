@@ -1,0 +1,5 @@
+name: ArmourClicker
+version: @version@
+main: com.me4502.armourclicker.ArmourClicker
+authors: [Me4502]
+description: Allows going to servers by clicking armour stands.
